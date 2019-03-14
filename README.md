@@ -10,4 +10,4 @@ Transcoder.py reads CSV files and outputs Sonic Pi code
 
 Synthepic.py is an application written with the PyGame Module. It reads input from the user (controls are left, right, click, enter/return, and escape) to play songs made with the Sonic Pi application.
 
-All of the Wav files were made with Sonic Pi and the Png files were made in Photoshop and PowerPoint. 
+All of the Wav files were made with Sonic Pi and the Png files were made in Photoshop and PowerPoint (Some Wav files were too large to add, but they will be added eventually)
